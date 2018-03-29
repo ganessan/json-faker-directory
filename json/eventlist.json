@@ -1,0 +1,12 @@
+{
+"events": [
+  {
+  "eventName": "Alfresco Day",
+  "location" : "New York City"
+  },
+  {
+  "eventName": "DevCon 2019",
+  "location" : "Anchorage, Alaska"
+  },
+
+}
